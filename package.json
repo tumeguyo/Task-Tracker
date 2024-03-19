@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "angular-font-awesome": "^3.1.2",
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
